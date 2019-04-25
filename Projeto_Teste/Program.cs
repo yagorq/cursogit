@@ -7,15 +7,13 @@ using System.Threading.Tasks;
 namespace Projeto_Teste {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Olá mundo!");
-
             Console.WriteLine("Boa tarde!");
 
             Console.WriteLine("Como está?");
 
+            Console.WriteLine("Bora BAHÊAAA! #BBMP");
+
             Console.ReadLine();
-
-
 
         }
     }
